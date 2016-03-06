@@ -1,3 +1,6 @@
+from urllib import request
 
-print('hello world!')
+url = 'http://nj.fang.lianjia.com/loupan/xuanwu/'
+content = request.urlopen()
 
+# print('hello world!')
