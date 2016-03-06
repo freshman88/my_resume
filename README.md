@@ -1,2 +1,4 @@
-# my_resume
-simple web page about resume
+# hello
+have a nice day~
+
+version is python3
